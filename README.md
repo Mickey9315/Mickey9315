@@ -3,6 +3,9 @@
 <p align="center">
   <h3 align="center">A Passionate & Agile FullStack Developer +7 years exp</h3>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 - 😎 Interested in contributing expertise in web, unity and blockchain development
 
 - 👯 I hope someday collaborate with on **Innovative Projects**
@@ -18,9 +21,7 @@
 <img src="https://img.shields.io/github/issues/gerMdz/AlamedaCMS" alt="Issues Badge"/>
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/gerMdz/AlamedaCMS?color=2b9348">
 <img src="https://img.shields.io/github/license/gerMdz/AlamedaCMS?color=2b9348" alt="License Badge"/>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NFTknight&label=Profile%20views&color=0e75b6&style=flat" alt="NFTknight" /> </p>
+<img src="https://komarev.com/ghpvc/?username=NFTknight&label=Profile%20views&color=0e75b6&style=flat" alt="NFTknight" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=germdz" alt="NFTknight" /></a> </p>
 
