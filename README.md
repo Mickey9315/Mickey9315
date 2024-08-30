@@ -6,7 +6,7 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-- 😎 Interested in contributing expertise in web, unity and blockchain development
+- 😎 Interested in contributing expertise in web, mobile, unity and blockchain development
 
 - 👯 I hope someday collaborate with on **Innovative Projects**
 
