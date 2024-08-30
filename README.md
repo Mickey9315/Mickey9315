@@ -3,7 +3,7 @@
 <p align="center">
   <h3 align="center">A Passionate & Agile FullStack Developer +7 years exp</h3>
 
-- 😎 Interested in contributing expertise in web, unity and blockchain development
+- 😎 Interested in contributing expertise in web, mobile, unity and blockchain development
 
 - 👯 I hope someday collaborate with on **Innovative Projects**
 
