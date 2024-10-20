@@ -10,13 +10,17 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 5
 
     steps:
       - name: Checkout
         uses: actions/checkout@v2
 
       - name: Generate Snake
-        uses: nftknight/nftknight@main
+        uses: Platane/snk/svg-only@v3
+        id: snake-gif
         with:
           github_token: ${{ secrets.TOKEN }}
           output: dist/github-snake.svg
