@@ -17,7 +17,7 @@
 - ⚡ Quotes: _What you do today can improve all of your tomorrows._
 </p>
 
-<img src="https://img.shields.io/github/issues-pr/nftknight/uniswapv3-code" alt="Pull Requests Badge"/> <img src="https://img.shields.io/github/issues/Jeiwan/uniswapv3-code" alt="Issues Badge"/> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Jeiwan/uniswapv3-code?color=2b9348"> <img src="https://img.shields.io/github/license/nftknight/ReactNative-Expo-OAuth?color=2b9348" alt="License Badge"/> <img src="https://komarev.com/ghpvc/?username=NFTknight&label=Profile%20views&color=0e75b6&style=flat" alt="NFTknight" />
+<img src="https://img.shields.io/github/issues-pr/nftknight/uniswapv3-code" alt="Pull Requests Badge"/> <img src="https://img.shields.io/github/issues/nftknight/uniswapv3-code" alt="Issues Badge"/> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/nftknight/uniswapv3-code?color=2b9348"> <img src="https://img.shields.io/github/license/nftknight/ReactNative-Expo-OAuth?color=2b9348" alt="License Badge"/> <img src="https://komarev.com/ghpvc/?username=NFTknight&label=Profile%20views&color=0e75b6&style=flat" alt="NFTknight" />
 
 <p align="left"> <a href="https://github.com/nftknight/"><img src="https://github-profile-trophy.vercel.app/?username=nftknight" alt="NFTknight" /></a> </p>
 
