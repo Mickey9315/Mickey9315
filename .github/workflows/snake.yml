@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Generate Snake
-        uses: nftknight/nftknight@master
+        uses: nftknight/nftknight@main
         with:
           github_token: ${{ secrets.TOKEN }}
           output: dist/github-snake.svg
