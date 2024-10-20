@@ -10,16 +10,16 @@
 
 - 👯 I hope someday collaborate with on **Innovative Projects**
 
-- 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies. 
+- 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies.
 
-- 📚 Love reading books on personal development & financial literacy. 
+- 📚 Love reading books on personal development & financial literacy.
 
-- ⚡ Quotes: *What you do today can improve all of your tomorrows.*
+- ⚡ Quotes: _What you do today can improve all of your tomorrows._
 </p>
 
-<img src="https://img.shields.io/github/issues-pr/gerMdz/AlamedaCMS" alt="Pull Requests Badge"/> <img src="https://img.shields.io/github/issues/gerMdz/AlamedaCMS" alt="Issues Badge"/> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/gerMdz/AlamedaCMS?color=2b9348"> <img src="https://img.shields.io/github/license/gerMdz/AlamedaCMS?color=2b9348" alt="License Badge"/> <img src="https://komarev.com/ghpvc/?username=NFTknight&label=Profile%20views&color=0e75b6&style=flat" alt="NFTknight" />
+<img src="https://img.shields.io/github/issues-pr/nftknight/uniswapv3-code" alt="Pull Requests Badge"/> <img src="https://img.shields.io/github/issues/Jeiwan/uniswapv3-code" alt="Issues Badge"/> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Jeiwan/uniswapv3-code?color=2b9348"> <img src="https://img.shields.io/github/license/nftknight/ReactNative-Expo-OAuth?color=2b9348" alt="License Badge"/> <img src="https://komarev.com/ghpvc/?username=NFTknight&label=Profile%20views&color=0e75b6&style=flat" alt="NFTknight" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=germdz" alt="NFTknight" /></a> </p>
+<p align="left"> <a href="https://github.com/nftknight/"><img src="https://github-profile-trophy.vercel.app/?username=nftknight" alt="NFTknight" /></a> </p>
 
 ## My Skills
 
@@ -73,24 +73,25 @@
 <img align="right" src="https://img.shields.io/github/followers/NFTknight?label=Follow&style=social" />
 <h1 align="center"></h1>
 
-
-
-
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
 <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 
-  ### DApps & Online Betting Website
+### DApps & Online Betting Website
+
   <br />
 
-  ### Crypto Trading Platforms & Bots
+### Crypto Trading Platforms & Bots
+
   <br />
 
-  ### Website and Mobile application
+### Website and Mobile application
+
   <br />
 
-  ### Video Conference Web & Mobile application
+### Video Conference Web & Mobile application
+
   <br />
   
   ### SaaS/CRM/CMS/E-Commerce Web & Mobile application
@@ -104,7 +105,7 @@
 <h3 align="left">Support:</h3>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=germdz&show_icons=true&locale=en&layout=compact" alt="NFTknight" /></p> <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nftknight&show_icons=true&locale=en&layout=compact" alt="NFTknight" /></p> <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NFTknight&show_icons=true&locale=en" alt="NFTknight" /></p>
 
