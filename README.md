@@ -33,7 +33,7 @@
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="50"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="50"></td>
       <td><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"></td>
-      <td><img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-95015d5a07af.gif" width="50"></td>
+      <td><img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="50"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="50"></td>
     </tr>
     <tr width='50' height='50'>
@@ -73,7 +73,7 @@
     <td><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50"/></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg?raw=true" width="50"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="50"/></td>
-    <td><img src="https://user-images.githubusercontent.com/74038190/212281750-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="50"/></td>
+    <td><img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="50"/></td>
     </tr>
 </table>
 
@@ -84,7 +84,7 @@
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
 <div>
-  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e506f6d2f323031392f30322f5068617261507465722d312e676966?raw=true" width="400" />
+  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966?raw=true" width="400" />
 
 ### DApps & Online Betting Website
 
