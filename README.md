@@ -1,4 +1,4 @@
-<h1 align="center" dir="auto">👋 Hi, I’m a Passinate Software & BlockChain Engineer </h1>
+<h1 align="center" dir="auto"> Full Stack & BlockChain </h1>
 
 <p align="center">
   <h3 align="center">Highly Skilled Full Stack Web3 & Mobile Developer +8 years Exp</h3>
