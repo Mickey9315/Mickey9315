@@ -1,4 +1,4 @@
-<h1 align="center" dir="auto"> Full Stack Software Engineer </h1>
+<h1 align="center" dir="auto"> kelsey.abreu6767@gmail.com </h1>
 
 <p align="center">
   <h3 align="center">Highly Skilled Full Stack & AI Engineer </h3>
