@@ -1,5 +1,6 @@
 <h1 align="center" dir="auto"> kelsey.abreu6767@gmail.com </h1>
-
+Hello , It's me I was blocked from Freelancer  this is my Whatsapp nubmer 1 839 810 7789 
+   Otherwise plz send message.
 <p align="center">
   <h3 align="center">Highly Skilled Full Stack & AI Engineer </h3>
 
