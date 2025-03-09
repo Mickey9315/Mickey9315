@@ -5,6 +5,8 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+- taki.mickey9315@gmail.com , live:.cid.613f110bebc53a7
+
 - 😎 Interested in contributing expertise in web, mobile, unity and blockchain development
 
 - 👯 I hope someday collaborate with on **Innovative Projects**
